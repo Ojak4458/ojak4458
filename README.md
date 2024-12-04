@@ -39,4 +39,4 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojak4458&layout=compact" alt="aakarshteja_stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ojak4458&" alt="aakarshteja_stats"/>
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=aakarshteja" alt="ojak4458 Teja Profile visits" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ojak4458" alt="ojak4458 Teja Profile visits" /></p>
