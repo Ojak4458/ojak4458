@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Tools I Use 🔧🔨
 ![Xampp](https://img.shields.io/badge/xampp-%FCC624.svg?style=for-the-badge&logo=xampp&logoColor=white&color=FB7A24)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-)
+
 
 [<img src = "https://img.shields.io/badge/Abdul Rojak-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/share/12EjQBtvVhC/)
 [<img src = "https://img.shields.io/badge/ojak767-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/ojak_767/profilecard/?igsh=bDh4MXg4ZmkzMDFw)
