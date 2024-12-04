@@ -31,3 +31,12 @@ Here are some ideas to get you started:
 ## Social Media
 [<img src = "https://img.shields.io/badge/Abdul Rojak-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/share/12EjQBtvVhC/)
 [<img src = "https://img.shields.io/badge/ojak767-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/ojak_767/profilecard/?igsh=bDh4MXg4ZmkzMDFw)
+
+
+### Stats 📊
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ojak4458&show_icons=true" alt="aakarshteja_stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojak4458&layout=compact" alt="aakarshteja_stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ojak4458&" alt="aakarshteja_stats"/>
+</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=aakarshteja" alt="ojak4458 Teja Profile visits" /></p>
