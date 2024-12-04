@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ojak4458&show_icons=true" alt="aakarshteja_stats" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojak4458&layout=compact" alt="aakarshteja_stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ojak4458&" alt="ojak4458_stats"/></p>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ojak4458&"/></p>
